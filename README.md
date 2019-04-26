@@ -9,7 +9,9 @@ The result of the comparisons has the quantity and percentage of common elements
 ## Guide
 
 ```sh
- $ matapi --extract 800 --repeat 100 --output results/ --shuffle --unique ref.csv --compare samples/*
+ $ git clone https://github.com/marcosp-sousa/matapi
+ $ cd matapi
+ $ python3 -m matapi --extract 800 --repeat 100 --output results/ --shuffle --unique ref.csv --compare samples/*
 ```
 
 ### Parameters
