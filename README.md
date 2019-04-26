@@ -1,6 +1,8 @@
 # Matapi - Random sample generation and comparison software 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652463.svg)](https://doi.org/10.5281/zenodo.2652463)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652472.svg)](https://doi.org/10.5281/zenodo.2652472)
+
 
 Matapi is a software developed in Python that aims to compare samples and a reference file. This set is generated from a random selection of a initial file, using the `random.SystemRandom` class used to generate non-reproducible sequences.
 
