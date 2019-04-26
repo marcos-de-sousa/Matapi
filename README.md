@@ -1,4 +1,4 @@
-# Matapi
+# Matapi - Random sample generation and comparison software 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652463.svg)](https://doi.org/10.5281/zenodo.2652463)
 
