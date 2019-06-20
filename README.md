@@ -1,4 +1,4 @@
-# Matapi - Random sample generation and comparison software 
+# Matapi - Random sample generation and comparison software for genomic sequences
 
 ![Matapi Logo](matapi6.jpg)
 
